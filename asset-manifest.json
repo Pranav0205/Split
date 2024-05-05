@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pranav0205/Split/static/css/main.a4c28843.css",
+    "main.js": "/Pranav0205/Split/static/js/main.4311e106.js",
+    "index.html": "/Pranav0205/Split/index.html",
+    "main.a4c28843.css.map": "/Pranav0205/Split/static/css/main.a4c28843.css.map",
+    "main.4311e106.js.map": "/Pranav0205/Split/static/js/main.4311e106.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c28843.css",
+    "static/js/main.4311e106.js"
+  ]
+}
